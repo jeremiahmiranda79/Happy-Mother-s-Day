@@ -1,3 +1,25 @@
 * {
     font-family: 'Sedgwick Ave Display', cursive;   
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(36, 32, 32);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+ }
+
+ .header {
+    position: fixed;
+    left: 0;
+    top: 110;
+    width: 100%;
+    background-color: rgb(36, 32, 32);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+ }
